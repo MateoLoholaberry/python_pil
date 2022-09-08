@@ -1,3 +1,14 @@
+# Realizar un menú de un cajero automático, donde el usuario pueda escoger entre
+# alguna de las siguientes opciones:
+# Deposito.
+# Extracción.
+# Transferencia.
+# Salir.
+# En todos los casos se le pedirá al usuario ingresar un monto de dinero y el
+# programa deberá mostrar en todo momento la sección del menú en la que se
+# encuentre, pudiendo retornar al menú principal siempre que se quiera y solo se
+# detendrá la ejecución cuando se ingrese la opción de “salir” en el menú principal.
+
 bandera = True
 
 while bandera:
