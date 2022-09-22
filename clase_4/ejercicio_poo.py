@@ -1,4 +1,10 @@
-# Crear una clase padre y clases hijas de personajes buenos y malos y poder hacerlos atacarse
+# Crear una clase padre y clases hijas de personajes buenos y malos y poder hacerlos atacarse entre ellos
+
+""" Ejercicio realizado durante la clase.
+    todavía no está terminado, falta implementar algunos métodos
+    al main como los de curarse. A la vez le falta trabajar más
+    el main para que sea un programa un poco más complejo.
+"""
 import random
 import os
 
@@ -124,5 +130,5 @@ def main():
 
     print("\nFin del juego")
 
-
-main()
+if __name__ == "__main__":
+    main()

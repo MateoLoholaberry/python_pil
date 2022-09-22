@@ -1,10 +1,10 @@
 # Clases
 class Animal:
-    
+
     def __init__(self, especie, edad):
         self.especie = especie
         self.edad = edad
-    
+
     def hablar(self, sonido):
         print(sonido)
 
